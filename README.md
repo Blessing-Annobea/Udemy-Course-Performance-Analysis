@@ -71,6 +71,9 @@ Subject, Level, Price, Subscribers, Reviews, Lectures, Publication Date.
 ## Remarks
 By optimizing pricing, encouraging reviews and expanding high-demand content, creators can significantly increase enrollment and profitability.
 
+## Project Note
+This project was created using dummy/sample data for learning and portfolio purposes. 
+The dataset does not contain real company information.
 
 ## Author
 Blessing Annobea|Data Analyst|blessing.annobea@gmail.com
